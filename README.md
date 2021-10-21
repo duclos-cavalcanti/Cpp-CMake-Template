@@ -1,5 +1,3 @@
-# Empty C project
+# CMake Cpp Template Project
 
-[![Build Status](https://travis-ci.com/alxhoff/Empty_C_Project.svg?branch=master)](https://travis-ci.com/alxhoff/Empty_C_Project)
-
-A empty C project template using CMake
+A empty Cpp project template using CMake.
